@@ -1,0 +1,12 @@
+{
+  "name": "test-hapi",
+  "version": "1.0.0",
+  "description": "Minimal Hapi.js server for testing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2"
+  }
+}
